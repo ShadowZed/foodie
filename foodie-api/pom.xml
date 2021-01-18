@@ -16,6 +16,7 @@
         <!-- api ->service -> mapper -> pojo -> common
         api可以使用service、mapper、pojo、common里面的方法
         -->
+
         <dependency>
             <groupId>com.imooc</groupId>
             <artifactId>foodie-service</artifactId>
